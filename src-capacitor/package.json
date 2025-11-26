@@ -1,0 +1,13 @@
+{
+  "name": "pet-pal-app",
+  "version": "0.0.1",
+  "description": "Pet pal app",
+  "author": "Chris Roughsedge <chris.roughsedge@moneypenny.co.uk>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
